@@ -1,0 +1,2 @@
+﻿SELECT Avg([2010 Engagement Data].[Rings Cost]) AS ["Average 2010 Cost"], Avg([2015 Engagement Data].[Rings Cost]) AS ["Average 2015 Cost"]
+FROM [2010 Engagement Data], [2015 Engagement Data];
